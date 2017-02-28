@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FoursquareApp</string>
+    <string name="networkFailed">Bağlantı hatası</string>
+    <string name="jsonURL">http://www.json-generator.com/api/json/get/bZrPVYudTS?indent=2</string>
 </resources>
